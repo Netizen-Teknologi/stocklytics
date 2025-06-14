@@ -1,0 +1,21 @@
+ {
+    "market_universe": "IHSG",
+    "company_name": "Bank Central Asia Tbk",
+    "symbol": "IDX:BBCA",
+    "local_symbol": "BBCA",
+    "price": 8850,
+    "trend": "strong uptrend",
+    "target_price": 9300,
+    "target_price_2": 9600,
+    "stop_loss": 8600,
+    "stop_loss_2": 8400,
+    "reason": "Saham BBCA menunjukkan sinyal rebound dari support kuat dan didukung volume yang meningkat. Cocok untuk swing trading jangka pendek.",
+    "note": "Hati-hati jika break support 8600, potensi koreksi lebih dalam.",
+    "date": "2025-06-13",
+    "target_date": "2025-06-20",
+    "category": "bullish",
+    "analyst": "Aldystock Analysys Team",
+    "tags": ["banking", "bluechip", "swing", "short_term"],
+    "rating": 4.5,
+    "status": "active"
+  }
