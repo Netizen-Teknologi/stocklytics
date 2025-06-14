@@ -1,0 +1,66 @@
+[
+  {
+    id: "short_term",
+    name: "Short Term"
+  },
+  {
+    id: "mid_term",
+    name: "Mid Term"
+  },
+  {
+    id: "long_term",
+    name: "Long Term"
+  },
+  {
+    id: "swing_trade",
+    name: "Swing Trade"
+  },
+  {
+    id: "day_trade",
+    name: "Day Trade"
+  },
+  {
+    id: "trend_following",
+    name: "Trend Following"
+  },
+  {
+    id: "momentum",
+    name: "Momentum"
+  },
+  {
+    id: "value_investing",
+    name: "Value Investing"
+  },
+  {
+    id: "growth",
+    name: "Growth"
+  },
+  {
+    id: "dividend",
+    name: "Dividend"
+  },
+  {
+    id: "blue_chip",
+    name: "Blue Chip"
+  },
+  {
+    id: "speculative",
+    name: "Speculative"
+  },
+  {
+    id: "high_volume",
+    name: "High Volume"
+  },
+  {
+    id: "breakout",
+    name: "Breakout"
+  },
+  {
+    id: "reversal",
+    name: "Reversal"
+  },
+  {
+    id: "sideways",
+    name: "Sideways"
+  }
+]
