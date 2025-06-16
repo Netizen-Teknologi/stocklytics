@@ -27,12 +27,12 @@
         "note": "Monitor crude oil price dan kebijakan subsidi energi.",
         "date": "2025-06-16",
         "target_date": "2025-06-23",
-        "target_date_hit": null,
+        "target_date_hit": "2025-06-16",
         "category": "bullish",
         "analyst": "Aldystock Analysis Team",
         "tags": ["oil_gas", "commodity", "institutional_darling"],
         "rating": 4.2,
-        "status": "active"
+        "status": "win"
       },
       {
         "market_universe": "IHSG",
