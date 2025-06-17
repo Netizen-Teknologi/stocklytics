@@ -332,12 +332,12 @@
         "note": "Gold mining operation update bisa menjadi katalis.",
         "date": "2025-06-16",
         "target_date": "2025-06-23",
-        "target_date_hit": null,
+        "target_date_hit": "2025-06-16",
         "category": "bullish",
         "analyst": "Aldystock Analysis Team",
         "tags": ["gold_mining", "commodity", "high_beta"],
         "rating": 4.1,
-        "status": "active"
+        "status": "win"
       },
       {
         "market_universe": "IHSG",
