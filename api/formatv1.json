@@ -1,6 +1,7 @@
 {
     "market_universe": "IHSG",
     "company_name": "Krakatau Steel Tbk",
+    "screener": "Swing Trade Short Date V1",
     "symbol": "IDX:KRAS",
     "local_symbol": "KRAS",
     "price": 216,
